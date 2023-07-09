@@ -4,20 +4,6 @@
     </a>
 </p>
 
-<p align="center">
-    <a href="https://github.com/faustbrian/blade-icons-tabler-icons/actions">
-        <img src="https://badge.sh/github/check-runs/BombenProdukt/blade-icons-tabler-icons" alt="Checks" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/blade-icons-tabler-icons">
-        <img src="https://badge.sh/packagist/downloads/BombenProdukt/blade-icons-tabler-icons" alt="Downloads" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/blade-icons-tabler-icons">
-        <img src="https://badge.sh/packagist/version/BombenProdukt/blade-icons-tabler-icons" alt="Version" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/blade-icons-tabler-icons">
-        <img src="https://badge.sh/packagist/license/BombenProdukt/blade-icons-tabler-icons" alt="License" />
-    </a>
-</p>
 
 ## About Tabler Icons
 
